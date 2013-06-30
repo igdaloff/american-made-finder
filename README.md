@@ -1,4 +1,4 @@
-american-made-finder
+American-Made Finder
 ====================
 
-Finds American-made consumer product alternatives to your search engine queries.
+A browser extension that suggests American-made product alternatives to your search engine queries.

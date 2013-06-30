@@ -1,0 +1,13 @@
+/*COLORS*/
+/*TYPOGRAPHY*/
+#am-frame p {
+  font-family: georgia, serif;
+}
+#content {
+  width: 100%;
+  border-bottom: #00a1e4 6px solid;
+}
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}

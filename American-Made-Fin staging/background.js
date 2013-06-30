@@ -4,4 +4,7 @@
   http://docs.crossrider.com/#!/guide/scopes_background
 *************************************************************************************/
 
-appAPI.ready(function($) { });
+appAPI.ready(function($) {
+
+
+});
